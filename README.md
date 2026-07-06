@@ -71,6 +71,8 @@ Project-100/
 
 I am continuously learning Python and building projects to improve my programming skills. This repository documents my journey from basic concepts to advanced development.
 
+##Context
+Author: lthulasithulasi-hue
 ### Connect With Me
 
 Feel free to explore the projects, provide feedback, and follow my learning journey.
